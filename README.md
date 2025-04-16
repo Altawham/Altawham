@@ -14,7 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-if temperature>50
-print("It's a hot day")
-elif temperature=15
-print("Its a code day")
+def calculator():
+num1= float(input("1.5")
+operation = input ("+,-,×,÷")
+num2= float(input("2.9)
+if operation == "+":
+result= num 1+ num 2
+print(f"(num1) + (num2)
+elif operation == "-":
+result= num1 - num 2
+print(f"(num1) - (num2)
+elif operation == "/":
+result = (num1) ÷ (num2)
+print(f"(num1) ÷ (num2)
+elif operation == "×":
+result = (num1) × (num2)
+print(f"(num1) × (num2)
+
