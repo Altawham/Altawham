@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+if temperature>50
+print("It's a hot day")
+elif temperature=15
+print("Its a code day")
